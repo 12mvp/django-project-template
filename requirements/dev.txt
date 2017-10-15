@@ -1,0 +1,6 @@
+-r base.txt
+ipython
+django-debug-toolbar>=1.8
+git+https://github.com/nezo/django-dynamic-fixtures.git
+factory_boy
+django-sslserver==0.20
